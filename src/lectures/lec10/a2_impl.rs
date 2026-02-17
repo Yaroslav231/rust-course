@@ -46,7 +46,7 @@ fn test2() {
 
     let p = Point::random();
     assert!(p.x >= 5 && p.x < 50);
-    assert!(p.y >= 3 && p.x < 100);
+    assert!(p.y >= 3 && p.y < 100); 
 }
 
 impl Point {
