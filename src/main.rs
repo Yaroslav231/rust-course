@@ -4,5 +4,5 @@ mod practice;
 
 
 fn main() {
-    homeworks::p03::draw_array_envelope()
+    homeworks::p04::draw_array_rhombus()
 }
